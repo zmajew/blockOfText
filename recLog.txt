@@ -1,0 +1,12 @@
+-------------------------
+Tue Jan 15 17:33:34 CET 2019
+Results fo finding of word 'ipsum':
+Blokc number 1
+At URI: http://ricin.im/user/SkyzohKey?id=3
+Word 'ipsum' was found 2 times.
+Blokc number 2
+At URI: https://ricin.im/
+Word 'ipsum' was found 2 times.
+Blokc number 3
+At URI: tox:skyzohkey@ricin.im
+Word 'ipsum' was found 2 times.
